@@ -1,0 +1,19 @@
+{
+  "name": "zenfive",
+  "version": "1.0.0",
+  "description": "Segundo projeto o outro n deu certo kkkkk",
+  "main": "index.js",
+  "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.5.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
